@@ -1,0 +1,1 @@
+# DBeaver-ile-PostgreSQL-Final-Odevi
